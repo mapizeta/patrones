@@ -1,0 +1,2 @@
+jar tf robot.jar
+javap -cp robot.jar <nombre_clase>
